@@ -1,0 +1,4 @@
+CREATE TABLE friends(
+	ID1 INT REFERENCES student(ID),
+	ID2 INT REFERENCES student(ID)
+);
