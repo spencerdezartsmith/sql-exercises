@@ -1,0 +1,4 @@
+CREATE TABLE student_like(
+	LIKER_ID INT REFERENCES student(ID),
+	LIKEE_ID INT REFERENCES student(ID)
+);
