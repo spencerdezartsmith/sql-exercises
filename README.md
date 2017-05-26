@@ -1,8 +1,19 @@
-# SQL Exercises
+# Team Info:
 
-Exercises to help exercise the SQL muscles.
+Team-name: illustrious-zorro
 
-Base repository for the [core-sql](http://jsdev.learnersguild.org/goals/178) goal.
+Author:[@spencerdezartsmith, Spencer Dezart-Smith](https://github.com/spencerdezartsmith)
+
+JS Dev Link:
+
+Review Link:
+https://github.com/spencerdezartsmith/sql-exercises.git
+
+# Project Notes for the Reviewer
+
+Completed 1 - 10
+
+Stretch: Incomplete.
 
 ## Getting Started
 
